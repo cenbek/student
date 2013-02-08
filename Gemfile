@@ -18,3 +18,5 @@ end
 group :test do
   gem 'fabrication'
 end
+
+gem "mongoid"
