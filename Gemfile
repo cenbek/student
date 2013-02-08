@@ -17,6 +17,7 @@ end
 
 group :test do
   gem 'fabrication'
+  gem 'ffaker'
 end
 
 gem "mongoid"
