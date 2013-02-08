@@ -14,3 +14,7 @@ group :development, :test do
   gem 'minitest-rails'
   gem 'spinach-rails'
 end
+
+group :test do
+  gem 'fabrication'
+end
